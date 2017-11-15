@@ -1,2 +1,2 @@
 # hello-world
-First demo repository
+First demo repository by Dan
